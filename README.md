@@ -7,7 +7,6 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
